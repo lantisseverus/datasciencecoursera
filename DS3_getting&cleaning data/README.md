@@ -1,4 +1,4 @@
-# ** Getting and Cleaning **
+# **Getting and Cleaning**
 ## Course Project
 ## Read Me
 The course project includes three files:
